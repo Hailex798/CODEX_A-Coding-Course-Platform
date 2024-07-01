@@ -1,5 +1,5 @@
 import React from 'react'
-import bg from "../assets/headerBg-blur.png"
+import bg from "../assets/headerBg-blur-min.png"
 import styled from "styled-components"
 import { Button } from "@material-tailwind/react";
 import { MaterialNavbar } from './MaterialNavbar';

@@ -37,7 +37,7 @@ const Header = () => {
 
 const Wrapper = styled.section`
   background-image: url(${bg});
-  background-size: cover;
+  object-fit : cover;
   background-position: center;
   background-repeat: no-repeat;
 

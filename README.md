@@ -5,7 +5,7 @@
 ---
 
 ## 🌐 **Live Website**  
-> [Check out Codex here!](https://cod-ex.netlify.app/)  
+> LIVE DEMO LINK: https://cod-ex.netlify.app/
 
 ---
 

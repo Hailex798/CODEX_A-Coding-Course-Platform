@@ -58,6 +58,7 @@ Designed to captivate users, the website seamlessly combines powerful animations
 
 #### Features Overview:  
 ![Features Overview1](./src/assets/samples/s3.png)
+---
 ![Features Overview2](./src/assets/samples/s2.png)
 
 #### Footer:  

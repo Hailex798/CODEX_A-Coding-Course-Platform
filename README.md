@@ -38,18 +38,6 @@ Designed to captivate users, the website seamlessly combines powerful animations
 
 ---
 
-## 🛠️ **Tech Stack**  
-
-| **Technology**      | **Usage**                                           |  
-|----------------------|-----------------------------------------------------|  
-| **React.js**         | Core library for building UI components.           |  
-| **TailwindCSS**      | Utility-first CSS framework for responsive styling. |  
-| **Vite**             | Fast build and dev server for React.               |  
-| **data-aos**         | Animation library for on-scroll animations.        |  
-| **Styled Components**| Custom component-level styling.                    |  
-
----
-
 ## 📸 **Demo & Live Images**  
 
 ### Landing Page Highlights:  
@@ -64,7 +52,19 @@ Designed to captivate users, the website seamlessly combines powerful animations
 #### Footer:  
 ![Footer](./src/assets/samples/s1.png)
 
-(*Replace the placeholder links with actual image URLs from your project*)  
+*Visit the [Live Site](https://cod-ex.netlify.app/) for a full experience!* 🌐
+
+---
+
+## 🛠️ **Tech Stack**  
+
+| **Technology**      | **Usage**                                           |  
+|----------------------|-----------------------------------------------------|  
+| **React.js**         | Core library for building UI components.           |  
+| **TailwindCSS**      | Utility-first CSS framework for responsive styling. |  
+| **Vite**             | Fast build and dev server for React.               |  
+| **data-aos**         | Animation library for on-scroll animations.        |  
+| **Styled Components**| Custom component-level styling.                    |  
 
 ---
 

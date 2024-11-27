@@ -11,9 +11,9 @@
 
 ## 📖 **Table of Contents**  
 1. [Introduction](#introduction)  
-2. [Features](#features)  
-3. [Tech Stack](#tech-stack)
-4. [Demo & Live Images](#demo--live-images)  
+2. [Features](#features)
+3. [Demo & Live Images](#demo--live-images)  
+4. [Tech Stack](#tech-stack)
 5. [Project Structure](#project-structure)  
 6. [Setup Instructions](#setup-instructions)  
 7. [Future Enhancements](#future-enhancements)  

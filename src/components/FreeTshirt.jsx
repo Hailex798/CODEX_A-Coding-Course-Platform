@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from "styled-components"
 import bg from "../assets/freeTBg2.jpeg"
-import tshirt from "../assets/tshirt.png"
+import tshirt from "../assets/tshirt-4k.png"
 import HeadCombo from '../helpers/HeadCombo'
 
 const FreeTshirt = () => {
